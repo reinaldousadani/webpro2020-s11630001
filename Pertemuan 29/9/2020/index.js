@@ -68,4 +68,4 @@ const yearUntilRetirement = (birthYear=1996, currentYear = 2020, firstName) => {
     }
 }
 
-console.log(yearUntilRetirement(1995,2020,"Reinaldo"));
+console.log(yearUntilRetirement(1996,2020,"Reinaldo"));
